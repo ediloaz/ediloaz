@@ -21,13 +21,13 @@
 &nbsp;
 
 <h3>Acerca de mí</h3>
-<p>¡Hola! 👋 Soy [Tu Nombre], un apasionado 🎯 y creativo 🎨 Ingeniero en Computación 💻 de Costa Rica 🇨🇷. Estudié en el renombrado Tecnológico de Costa Rica 🎓, donde obtuve mi título con una beca completa 🏅. Desde los inicios de mi carrera, me he orientado al desarrollo web, comenzando con proyectos internos en la misma universidad.</p>
+<p>¡Hola de nuevo! 👋 Soy Edisson López, un enfocado 🎯 y creativo 🎨 Ingeniero en Computación 💻 pero enfocado en el Desarrollo web Fullstack de Costa Rica 🇨🇷. Estudié en una renombrada universidad llamada Tecnológico de Costa Rica 🎓, donde obtuve mi título 🏅. Desde los inicios de mi carrera, me he orientado al desarrollo web, comenzando con proyectos internos en la misma universidad.</p>
 
-<p>A lo largo de mi trayectoria, he tenido la oportunidad de trabajar como freelance 💼, en startups en crecimiento 🚀 como DataGis, en fintechs más consolidadas 💳 como Ibylit, y en empresas medianas 🏢 como Advision Development. En los últimos años, me he especializado en frontend con React ⚛️, donde podría ser considerado senior según el rol. En el backend, me he adaptado a las tecnologías de cada empresa, trabajando con Python 🐍 y Flask, NodeJS 🚀, y C# 💻.</p>
+<p>A lo largo de mi trayectoria, he tenido la oportunidad de trabajar como freelance 💼, en startups en crecimiento 🚀 como <i><a href="https://data-gis.com/">DataGis</a></i>, en fintechs más consolidadas 💳 como <i><a href="https://ibylit.com/">Ibylit</a></i>, y en empresas medianas 🏢 como <i><a href="https://www.advisiondevelopment.com/">Advision Development</a></i>. En los últimos años, me he especializado en frontend con React ⚛️, donde podría ser considerado senior según la empresa. En el backend, me he adaptado y me sigo adaptando a las tecnologías de cada empresa, trabajando con Python 🐍 y Flask, NodeJS 🚀, y C# 💻.</p>
 
-<p>Me apoyo en herramientas de IA 🤖 como ChatGPT y GitHub Copilot para estudiar, analizar las mejores soluciones y mejorar mi productividad. Mi día a día es muy ingenieril, buscando siempre un equilibrio entre productividad y paz 🧘‍♂️. Fuera del trabajo, disfruto haciendo deporte 🏋️‍♂️, especialmente CrossFit y correr 🏃, y me encanta escuchar música 🎧 o audiolibros 📚 con audífonos que cancelan el ruido exterior. Para mí, la familia es lo primero 👨‍👩‍👧‍👦.</p>
+<p>Me gusta usar herramientas de IA 🤖 como ChatGPT y GitHub Copilot para estudiar, analizar las mejores soluciones y mejorar mi productividad. Mi día a día es muy ingenieril, buscando siempre un equilibrio entre productividad y paz 🧘‍♂️. Fuera del trabajo, disfruto haciendo deporte 🏋️‍♂️, especialmente CrossFit y correr 🏃, y me encanta escuchar música 🎧 o audiolibros 📚 con audífonos que cancelan el ruido exterior. Para mí, la familia es lo primero 👨‍👩‍👧‍👦.</p>
 
-<p>Siempre estoy abierto a nuevas ideas y oportunidades. ¡No dudes en conectarte conmigo para explorar emocionantes posibilidades juntos! 🌟</p>
+<p>En fin... Siempre estoy abierto a nuevas ideas y oportunidades. ¡No dudes en conectarte conmigo para explorar emocionantes posibilidades juntos! 🌟</p>
 
 &nbsp;
 
