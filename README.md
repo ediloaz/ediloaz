@@ -23,7 +23,7 @@
 <h3>Acerca de mí</h3>
 <p>¡Hola de nuevo! 👋 Soy Edisson López, un disciplinado 🎯 y creativo 🎨 Ingeniero en Computación 💻 con enfásis en el Desarrollo Web Fullstack, vivo en Costa Rica 🇨🇷. Estudié en una universidad llamada Tecnológico de Costa Rica 🎓, donde obtuve mi título 🏅. Desde los inicios de mi carrera, me he orientado al desarrollo web, comenzando con proyectos internos en la misma universidad.</p>
 
-<p>A lo largo de mi trayectoria, he tenido la oportunidad de trabajar como freelance 💼, en startups en crecimiento 🚀 como <i><a href="https://data-gis.com/">DataGis</a></i>, en fintechs más consolidadas 💳 como <i><a href="https://ibylit.com/">Ibylit</a></i>, y en empresas medianas de desarrollo de software 🏢 como <i><a href="https://www.advisiondevelopment.com/">Advision Development</a></i>. En los últimos años, me he especializado en frontend con React ⚛️, donde podría ser considerado senior según la empresa. En el backend, me he adaptado y me sigo adaptando a las tecnologías de cada empresa, trabajando con Python 🐍 y Flask, NodeJS 🚀, y C# 💻.</p>
+<p>A lo largo de mi trayectoria, he tenido la oportunidad de trabajar como freelance 💼, en startups en crecimiento 🚀 como <i><a href="https://data-gis.com/" target="_blank">DataGis</a></i>, en fintechs más consolidadas 💳 como <i><a href="https://ibylit.com/" target="_blank">Ibylit</a></i>, y en empresas medianas de desarrollo de software 🏢 como <i><a href="https://www.advisiondevelopment.com/" target="_blank">Advision Development</a></i>. En los últimos años, me he especializado en frontend con React ⚛️, donde podría ser considerado senior según la empresa. En el backend, me he adaptado y me sigo adaptando a las tecnologías de cada empresa, trabajando con Python 🐍 y Flask, NodeJS 🚀, y C# 💻.</p>
 
 <p>Me gusta usar herramientas de IA 🤖 como ChatGPT y GitHub Copilot para estudiar, analizar las mejores soluciones y mejorar mi productividad. Mi día a día es muy "ingenieril", buscando siempre un equilibrio entre productividad y paz 🧘‍♂️. Fuera del trabajo, disfruto haciendo deporte 🏋️‍♂️, especialmente CrossFit y correr 🏃, y me encanta escuchar música 🎧 o audiolibros 📚 con audífonos que cancelan el ruido exterior. Para mí, la familia es lo primero 👨‍👩‍👧‍👦.</p>
 
@@ -33,6 +33,6 @@
 
 <h3>Mi LinkedIn</h3>
 <p>
-  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/ediloaz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 <p><i>Pd: No tengo más redes sociales.</i></p>
