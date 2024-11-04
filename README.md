@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Un gusto que estés acá.</h1>
 
-<p>Bienvenido a mi página de GitHub. </br> Soy Edisson López, un ingeniero en computación con enfásis en el desarrollo web fullstack. Soy de <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>San José, Costa Rica.</b></p>
+<p>Bienvenido a mi página de GitHub. </br> Soy Edisson López, un ingeniero en computación con enfásis en el desarrollo web fullstack, viviendo en <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>San José, Costa Rica.</b></p>
 
 &nbsp;
 
