@@ -1,38 +1,90 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Un gusto que estés acá.</h1>
+<div align="center">
 
-<p>Bienvenido a mi página de GitHub. </br> Soy Edisson López, un ingeniero en computación con enfásis en el desarrollo web fullstack, viviendo en <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> <b>San José, Costa Rica.</b></p>
+# Hola, soy Edisson López <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
 
-&nbsp;
+### Ingeniero en Computación · Fullstack Developer · San José, Costa Rica 🇨🇷
 
-<h3>Acerca de mí</h3>
-<p>Estudié en una universidad llamada Tecnológico de Costa Rica 🎓, donde obtuve mi título 🏅. Desde los inicios de mi carrera, me he orientado al desarrollo web, comenzando con proyectos internos en la misma universidad.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ediloaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediloaz)
+[![TEC](https://img.shields.io/badge/Ingeniería-TEC_Costa_Rica-0055A5?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.tec.ac.cr/)
 
-<p>A lo largo de mi carrera profesional, he tenido la oportunidad de trabajar como freelance 💼, en startups en crecimiento 🚀 como <i><a href="https://data-gis.com/" target="_blank">DataGis</a></i> de inmobiliaria y avalúos, en fintechs consolidadas 💳 como <i><a href="https://ibylit.com/" target="_blank">Ibylit</a></i>, también en empresas medianas de desarrollo de software 🏢 como <i><a href="https://www.advisiondevelopment.com/" target="_blank">Advision Development</a></i>. En los últimos años, me he especializado en frontend con React ⚛️, donde podría ser considerado senior según la empresa. En el backend, me he adaptado y me sigo adaptando a las tecnologías de cada empresa, trabajando con Python 🐍, NodeJS 📦, C# 🛠️ y PHP 🐘.</p>
+</div>
 
-<p>Uso diariamente herramientas de IA 🤖 como ChatGPT Plus y GitHub Copilot para estudiar, analizar las mejores soluciones y mejorar mi productividad. Mi día a día es muy "ingenieril", buscando siempre un equilibrio entre productividad y paz 🧘‍♂️. Fuera del trabajo, disfruto haciendo deporte 🏋️‍♂️, especialmente CrossFit y correr 🏃, me encanta escuchar música 🎧 o audiolibros 📚.</p>
+---
 
-<p>En fin... no dudes en conectarte conmigo para explorar proyectos, trabajos, conversar o si ocupas ayuda en algo. 🌟</p>
+## Sobre mí
 
-&nbsp;
+Soy desarrollador web fullstack egresado del **Tecnológico de Costa Rica** 🎓, con varios años de experiencia construyendo productos digitales en distintos contextos: universidades, startups, software houses y fintechs.
 
-<h3>Estas son algunas tecnologías que manejo</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
-<p>Existen otro montón que he usado, claro, sin embargo en las anteriores me desenvuelvo bien, teórica y prácticamente.</p>
+Me especializo en **frontend con React** ⚛️, aunque me adapto con fluidez al backend según las necesidades del equipo. He trabajado con Python, Node.js, C# y PHP a lo largo de mi carrera.
 
-&nbsp;
+- 🏢 Actualmente en **[Ibylit](https://ibylit.com/)** — fintech consolidada
+- 💼 Experiencia previa en **[Advision Development](https://www.advisiondevelopment.com/)** y **[DataGis](https://data-gis.com/)**
+- 🤖 Usuario intensivo de IA: ChatGPT Plus, GitHub Copilot y Claude Code
+- 🏋️ Fuera del código: CrossFit, running y audiolibros
 
-<h3>Mi LinkedIn</h3>
-<p>
-  <a href="https://www.linkedin.com/in/ediloaz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-<p><i>Pd: No tengo más redes sociales.</i></p>
+---
+
+## Stack tecnológico
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+![Edisson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ediloaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ediloaz&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ediloaz&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Experiencia profesional
+
+| Empresa | Rol | Tipo |
+|---|---|---|
+| [Ibylit](https://ibylit.com/) | Fullstask Senior Developer | Fintech |
+| [Advision Development](https://www.advisiondevelopment.com/) | Fullstack Developer | Software House |
+| [DataGis](https://data-gis.com/) | Fullstack Developer | Startup (PropTech) |
+| [Tecnológico de Costa Rica](https://www.tec.ac.cr/) | Web Developer | Universidad |
+| Proyectos propios | Freelance Developer | Independiente |
+
+---
+
+<div align="center">
+
+¿Querés colaborar, contratar o simplemente conversar? No dudes en escribirme. 🌟
+
+[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediloaz)
+
+</div>
