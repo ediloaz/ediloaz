@@ -59,9 +59,9 @@ Me especializo en **frontend con React** ⚛️, aunque me adapto con fluidez al
 
 <div align="center">
 
-![Edisson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ediloaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ediloaz&theme=tokyonight)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ediloaz&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ediloaz&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ediloaz&theme=tokyonight&hide_border=true)
 
