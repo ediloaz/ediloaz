@@ -15,7 +15,7 @@
 
 Soy desarrollador web fullstack egresado del **Tecnológico de Costa Rica** 🎓, con varios años de experiencia construyendo productos digitales en distintos contextos: universidades, startups, software houses y fintechs.
 
-Me especializo en **frontend con React** ⚛️, aunque me adapto con fluidez al backend según las necesidades del equipo. He trabajado con Python, Node.js, C# y PHP a lo largo de mi carrera.
+Me especializo en **frontend con React** ⚛️, y me adapto con fluidez al backend según las necesidades del equipo. He trabajado con Python, Node.js, C# y PHP a lo largo de mi carrera.
 
 - 🏢 Actualmente en **[Ibylit](https://ibylit.com/)** — fintech consolidada
 - 💼 Experiencia previa en **[Advision Development](https://www.advisiondevelopment.com/)** y **[DataGis](https://data-gis.com/)**
